@@ -1,0 +1,31 @@
+# C++
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ncb
+*.sdf
+*.suo
+*.user
+*.ipch
+/Debug/
+/Release/
+/.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.venv/
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Data (we don't commit generated data)
+*.csv
