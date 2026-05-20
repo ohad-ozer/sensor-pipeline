@@ -7,6 +7,7 @@ The Python part reads and analyzes that data.
 ---
 
 ## Project Structure
+```
 sensor-pipeline/
 ├── sensor-simulator/         # C++ project
 │   ├── Sensor.h
@@ -16,7 +17,7 @@ sensor-pipeline/
 │   └── analyzer.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Requirements
@@ -53,6 +54,7 @@ python analyzer.py
 ---
 
 ## Example Output
+```
 === Sensor Report ===
 Sensor: sensor_1
 Readings: 20
@@ -68,3 +70,5 @@ Alerts:
 ⚠ Reading 8: temperature 39.77 exceeds threshold!
 ⚠ Reading 13: temperature 38.15 exceeds threshold!
 ⚠ Reading 16: temperature 37.61 exceeds threshold!
+
+```
