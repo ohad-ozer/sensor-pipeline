@@ -8,9 +8,9 @@
 *.suo
 *.user
 *.ipch
-/Debug/
-/Release/
-/.vs/
+**/.vs/
+**/Debug/
+**/Release/
 
 # Python
 __pycache__/
