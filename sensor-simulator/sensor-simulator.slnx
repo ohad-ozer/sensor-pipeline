@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="sensor-simulator.vcxproj" />
+  <Project Path="sensor-simulator.vcxproj" Id="ba4e7694-11c6-49c7-a536-f0368b8ea5c6" />
 </Solution>
